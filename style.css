@@ -1,12 +1,24 @@
-.HomeTittle{
-    font-size: 85px;
-    font-family: 'Roboto';
-    text-align: center;
-    margin-top: 15%;
-    color: black;
-    color: #000000;
-}
-
 body{
     background-color: #FEFFE3;
+    color: #000000;
+    background-image: url("michael-brandt-nK01_Z9dKqI-unsplash.jpg");
+    background-size: 100%;
+}
+
+.HomeTittle{
+    font-size: 80px;
+    font-family: 'Roboto';
+    text-align: center;
+    margin-top: 13%;
+}
+
+.rectangle{
+    /* height: 7%;
+    width: 4%; */
+    height: 100px;
+    width: 100px;
+    background-color: #FEFFE3;
+    text-align: left;
+    margin-top: 25%;
+    float: left;
 }
