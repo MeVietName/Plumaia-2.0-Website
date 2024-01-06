@@ -1,0 +1,12 @@
+.HomeTittle{
+    font-size: 85px;
+    font-family: 'Roboto';
+    text-align: center;
+    margin-top: 15%;
+    color: black;
+    color: #000000;
+}
+
+body{
+    background-color: #FEFFE3;
+}
