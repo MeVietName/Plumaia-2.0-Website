@@ -2,23 +2,28 @@ body{
     background-color: #FEFFE3;
     color: #000000;
     background-image: url("michael-brandt-nK01_Z9dKqI-unsplash.jpg");
-    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .HomeTittle{
     font-size: 80px;
     font-family: 'Roboto';
     text-align: center;
-    margin-top: 13%;
+    margin-top: 10%;
 }
 
 .rectangle{
     /* height: 7%;
     width: 4%; */
-    height: 100px;
-    width: 100px;
+    height: 250px;
+    width: 55px;
     background-color: #FEFFE3;
     text-align: left;
-    margin-top: 25%;
+    /* margin-top: 50%; */
+    /* margin-bottom: 50%; */
     float: left;
+    border-radius: 26px;
+    margin-left: 54px;
 }
