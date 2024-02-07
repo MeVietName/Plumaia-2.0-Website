@@ -4,12 +4,13 @@ import { createIcons, icons } from 'lucide';
 createIcons({ icons });
 
 // Recommended way, to include only the icons you need.
-import { createIcons, Menu, ArrowRight, Globe } from 'lucide';
+import { createIcons, home, store, message-square-text, mail} from 'lucide';
 
 createIcons({
   icons: {
-    Menu,
-    ArrowRight,
-    Globe
+    home,
+    store,
+    message-square-text,
+    mail
   }
 });
