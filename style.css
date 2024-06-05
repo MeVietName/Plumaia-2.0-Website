@@ -10,7 +10,9 @@ body{
 .hometittle{
     font-size: 80px;
     /* font-family: 'Roboto'; */
-    font-family: 'KoHo';
+    font-family: "KoHo", sans-serif;
+    font-weight: 500;
+    font-style: normal;
     text-align: center;
     margin-top: 10%;
 }
@@ -31,7 +33,9 @@ body{
 }
 
 .iconsmenu{
-    size: 100%;
+    size: 500%;
     color: dark;
     vertical-align: middle;
+    font-size: 100%;
+    padding-left: 100%;
 }
